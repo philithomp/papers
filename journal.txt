@@ -1,10 +1,16 @@
 #Autors
-Philip Thompson
+Philip Thompson & John
 
 #Title
-What a wonderful day in manchester
+What a wonderful day in manchester with John
+
+
 
 #Introduction
 Well this is such a lovely day, and here is some text to write.
 we use the lovely reference, (et al). 
 (second reference)
+
+#Simulations
+John did some stuff
+
