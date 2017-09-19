@@ -1,8 +1,8 @@
 #Autors
-Philip Thompson
+Philip Thompson & John
 
 #Title
-What a wonderful day
+What a wonderful day with John
 
 #Introduction
 Well this is such a lovely day, and here is some text to write.
