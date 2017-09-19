@@ -17,3 +17,6 @@ add some stuff
 
 #instrumentation
 An umbrella because it always rains. (Allen et al 2003)
+
+#Conclusion
+The umbrella was needed and nobody got wet.
