@@ -21,3 +21,6 @@ The umbrella was needed and nobody got wet.
 
 #Figures
 This section contains figures.
+
+#Acknowledgments
+Bob was there
