@@ -4,6 +4,9 @@ Philip Thompson & John
 #Title
 What a wonderful day in manchester with John
 
+#abstract
+The weather is always bad in manchester, thats why it rains.
+
 #Introduction
 Well this is such a lovely day, and here is some text to write.
 we use the lovely reference, (et al). 
